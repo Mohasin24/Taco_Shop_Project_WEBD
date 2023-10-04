@@ -52,7 +52,7 @@ input, textarea, button{
 }
 
 /* || DARK Mode */
-@media (prefers-color-scheme:dark){
+@media (prefers-color-scheme:light){
 
     :root body{
         box-shadow: 0 0 0 ;
